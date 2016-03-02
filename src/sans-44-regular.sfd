@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1456938604
+ModificationTime: 1456939536
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -293,7 +293,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 44 22 11
+WinInfo: 0 22 11
 BeginPrivate: 9
 UniqueID 7 5020902
 BlueValues 31 [-24 0 524 540 700 709 729 741]
@@ -1659,7 +1659,7 @@ EndChar
 StartChar: R
 Encoding: 82 82 50
 Width: 709
-Flags: HMWO
+Flags: HMW
 AnchorPoint: "middle" 349 360 basechar 0
 AnchorPoint: "below" 351 0 basechar 0
 AnchorPoint: "above" 344 729 basechar 0
@@ -1668,13 +1668,11 @@ Back
 Fore
 SplineSet
 523 360 m 1
- 613.5 321 623 254.75 623 189.25 c 0
- 623 171.843923474 624.329101562 154.491847185 624.329101562 137.717773438 c 0
- 624.329101562 77.7013877696 624 52.0868100071 624 0 c 1
- 535 0 l 1
- 535 30 535 74 534 119 c 2
- 534 184 l 2
- 534 272 496.691666667 314 413 314 c 2
+ 618.93 320.314787701 626.930842519 252.940694961 629 186.25 c 0
+ 630.502534389 121.679395134 628 70.1242807418 632 0 c 1
+ 543 0 l 1
+ 543 48.3756600298 542.266804192 127.449449446 540 184 c 0
+ 536.475229451 271.933362642 500.841666667 314 413 314 c 2
  173 314 l 1
  173 0 l 1
  80 0 l 1

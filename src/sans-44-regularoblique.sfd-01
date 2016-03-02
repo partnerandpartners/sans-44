@@ -1,5 +1,5 @@
 SplineFontDB: 3.0
-FontName: Sans44Oblique
+FontName: Sans44_Oblique
 FullName: Sans 44
 FamilyName: Sans 44
 Weight: Oblique
@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1456939120
+ModificationTime: 1449173597
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -15770,7 +15770,7 @@ SplineSet
  118.791 286 l 1
  185.534 600 l 1
 EndSplineSet
-Validated: 3073
+Validated: 1051649
 EndChar
 
 StartChar: finalkafhebrew
@@ -15940,7 +15940,7 @@ SplineSet
  106.488 -200 l 1
  19.4883 -200 l 1
 EndSplineSet
-Validated: 3073
+Validated: 1051649
 EndChar
 
 StartChar: nunhebrew
@@ -16131,7 +16131,7 @@ SplineSet
  612.534 600 l 1
  579.8 446 l 1
 EndSplineSet
-Validated: 3073
+Validated: 1051649
 EndChar
 
 StartChar: tsadihebrew
@@ -16314,7 +16314,7 @@ SplineSet
  149 0 l 5
  62 0 l 5
 EndSplineSet
-Validated: 3073
+Validated: 1051649
 EndChar
 
 StartChar: vavyodhebrew
@@ -16339,7 +16339,7 @@ SplineSet
  350 0 l 1
  263 0 l 1
 EndSplineSet
-Validated: 3073
+Validated: 1051649
 EndChar
 
 StartChar: yodyodhebrew
@@ -16365,7 +16365,7 @@ SplineSet
  119 286 l 1
  186 600 l 1
 EndSplineSet
-Validated: 3073
+Validated: 1051649
 EndChar
 
 StartChar: uni05F3
@@ -21853,7 +21853,7 @@ Fore
 Refer: 724 1513 N 1 0 0 1 0 0 2
 Refer: 695 1473 N 1 0 0 1 0 0 2
 Refer: 690 1468 N 1 0 0 1 212 -99 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" shindageshhebrew shindothebrew
 EndChar
 
@@ -21870,7 +21870,7 @@ Fore
 Refer: 690 1468 N 1 0 0 1 212 -99 2
 Refer: 724 1513 N 1 0 0 1 0 0 2
 Refer: 696 1474 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" shindageshhebrew sindothebrew
 EndChar
 
@@ -21885,7 +21885,7 @@ Back
 Fore
 Refer: 699 1488 N 1 0 0 1 0 0 2
 Refer: 686 1463 N 1 0 0 1 75 0 2
-Validated: 32769
+Validated: 1081345
 EndChar
 
 StartChar: alefqamatshebrew
@@ -21899,7 +21899,7 @@ Back
 Fore
 Refer: 699 1488 N 1 0 0 1 0 0 2
 Refer: 687 1464 N 1 0 0 1 62 0 2
-Validated: 32769
+Validated: 1081345
 EndChar
 
 StartChar: alefdageshhebrew
@@ -21914,7 +21914,7 @@ Back
 Fore
 Refer: 699 1488 N 1 0 0 1 0 0 2
 Refer: 690 1468 N 1 0 0 1 -13 -366 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" alefhebrew dageshhebrew
 EndChar
 
@@ -21930,7 +21930,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -32 0 2
 Refer: 700 1489 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" bethebrew dageshhebrew
 EndChar
 
@@ -21946,7 +21946,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -94 0 2
 Refer: 701 1490 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" gimelhebrew dageshhebrew
 EndChar
 
@@ -21962,7 +21962,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -34 0 2
 Refer: 702 1491 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" dalethebrew dageshhebrew
 EndChar
 
@@ -21978,7 +21978,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 56 0 2
 Refer: 703 1492 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" hehebrew dageshhebrew
 EndChar
 
@@ -21994,7 +21994,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -231 0 2
 Refer: 704 1493 N 1 0 0 1 51 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" vavhebrew dageshhebrew
 EndChar
 
@@ -22010,7 +22010,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -220 0 2
 Refer: 705 1494 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" zayinhebrew dageshhebrew
 EndChar
 
@@ -22026,7 +22026,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 53 0 2
 Refer: 707 1496 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" tethebrew dageshhebrew
 EndChar
 
@@ -22042,7 +22042,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -217 64 2
 Refer: 708 1497 N 1 0 0 1 70 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" yodhebrew dageshhebrew
 EndChar
 
@@ -22058,7 +22058,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -39 0 2
 Refer: 709 1498 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" finalkafhebrew dageshhebrew
 EndChar
 
@@ -22074,7 +22074,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -7 0 2
 Refer: 710 1499 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" kafhebrew dageshhebrew
 EndChar
 
@@ -22090,7 +22090,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -3 72 2
 Refer: 711 1500 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" lamedhebrew dageshhebrew
 EndChar
 
@@ -22106,7 +22106,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 67 0 2
 Refer: 713 1502 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" memhebrew dageshhebrew
 EndChar
 
@@ -22122,7 +22122,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -139 0 2
 Refer: 715 1504 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" nunhebrew dageshhebrew
 EndChar
 
@@ -22138,7 +22138,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 47 0 2
 Refer: 716 1505 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" samekhhebrew dageshhebrew
 EndChar
 
@@ -22154,7 +22154,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 77 69 2
 Refer: 718 1507 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 EndChar
 
 StartChar: pedageshhebrew
@@ -22169,7 +22169,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 90 70 2
 Refer: 719 1508 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" pehebrew dageshhebrew
 EndChar
 
@@ -22185,7 +22185,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 -98 -64 2
 Refer: 721 1510 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" tsadihebrew dageshhebrew
 EndChar
 
@@ -22201,7 +22201,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 41 0 2
 Refer: 722 1511 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" qofhebrew dageshhebrew
 EndChar
 
@@ -22217,7 +22217,7 @@ Back
 Fore
 Refer: 723 1512 N 1 0 0 1 0 0 2
 Refer: 690 1468 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" reshhebrew dageshhebrew
 EndChar
 
@@ -22233,7 +22233,7 @@ Back
 Fore
 Refer: 724 1513 N 1 0 0 1 0 0 2
 Refer: 690 1468 N 1 0 0 1 212 -98 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" shinhebrew dageshhebrew
 EndChar
 
@@ -22249,7 +22249,7 @@ Back
 Fore
 Refer: 690 1468 N 1 0 0 1 145 0 2
 Refer: 725 1514 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" tavhebrew dageshhebrew
 EndChar
 
@@ -22282,7 +22282,7 @@ Back
 Fore
 Refer: 700 1489 N 1 0 0 1 0 0 2
 Refer: 693 1471 N 1 0 0 1 18 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" bethebrew rafehebrew
 EndChar
 
@@ -22298,7 +22298,7 @@ Back
 Fore
 Refer: 693 1471 N 1 0 0 1 23 0 2
 Refer: 710 1499 N 1 0 0 1 0 0 2
-Validated: 32769
+Validated: 1081345
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Hebrew subtable" kafhebrew rafehebrew
 EndChar
 

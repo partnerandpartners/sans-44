@@ -1,5 +1,5 @@
 SplineFontDB: 3.0
-FontName: Sans44_Regular
+FontName: Sans44Regular
 FullName: Sans 44
 FamilyName: Sans 44
 Weight: Regular
@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1203284335
-ModificationTime: 1449173138
+ModificationTime: 1456938604
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -285,7 +285,7 @@ LangName: 1029 "" "" "oby+AQ0A-ejn+AOkA"
 LangName: 1027 "" "" "Normal"
 LangName: 1026 "" "" "+BD0EPgRABDwEMAQ7BDUEPQAA"
 LangName: 1069 "" "" "Arrunta"
-LangName: 1033 "" "" "Regular" "" "" "" "" "" "GNU" "" "" "https://savannah.gnu.org/projects/freefont/" "" "This computer font is part of GNU FreeFont.  It is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.+AAoACgAA-This font is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this font.  If not, see +AAoA    http://www.gnu.org/licenses/+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "http://www.gnu.org/copyleft/gpl.html"
+LangName: 1033 "" "" "" "" "" "" "" "" "GNU" "" "" "https://savannah.gnu.org/projects/freefont/" "" "This computer font is part of GNU FreeFont.  It is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.+AAoACgAA-This font is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this font.  If not, see +AAoA    http://www.gnu.org/licenses/+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "http://www.gnu.org/copyleft/gpl.html"
 GaspTable: 3 9 2 22 1 65535 3 0
 Encoding: Custom
 UnicodeInterp: none
@@ -293,7 +293,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 22 11
+WinInfo: 44 22 11
 BeginPrivate: 9
 UniqueID 7 5020902
 BlueValues 31 [-24 0 524 540 700 709 729 741]
@@ -1659,7 +1659,7 @@ EndChar
 StartChar: R
 Encoding: 82 82 50
 Width: 709
-Flags: HMW
+Flags: HMWO
 AnchorPoint: "middle" 349 360 basechar 0
 AnchorPoint: "below" 351 0 basechar 0
 AnchorPoint: "above" 344 729 basechar 0
@@ -1669,13 +1669,12 @@ Fore
 SplineSet
 523 360 m 1
  613.5 321 623 254.75 623 189.25 c 0
- 623 171.844 622.329 154.492 622.329 137.718 c 0
- 622.329 91.3672 627.451 49.4336 666 23 c 1
- 666 0 l 1
- 553 0 l 1
- 540 30 533 74 533 119 c 2
- 533 184 l 2
- 533 274 496 314 413 314 c 2
+ 623 171.843923474 624.329101562 154.491847185 624.329101562 137.717773438 c 0
+ 624.329101562 77.7013877696 624 52.0868100071 624 0 c 1
+ 535 0 l 1
+ 535 30 535 74 534 119 c 2
+ 534 184 l 2
+ 534 272 496.691666667 314 413 314 c 2
  173 314 l 1
  173 0 l 1
  80 0 l 1
@@ -1690,7 +1689,6 @@ SplineSet
  398 396 l 2
  497 396 541 435 541 521 c 0
 EndSplineSet
-Validated: 3073
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin subtable" sc.r
 EndChar
 
@@ -6353,7 +6351,6 @@ Back
 Fore
 Refer: 6142 -1 N 1 0 0 1 260 0 2
 Refer: 50 82 N 1 0 0 1 0 0 1
-Validated: 32769
 EndChar
 
 StartChar: racute
@@ -6377,7 +6374,6 @@ Back
 Fore
 Refer: 1368 806 N 1 0 0 1 584 0 2
 Refer: 50 82 N 1 0 0 1 0 0 1
-Validated: 32769
 EndChar
 
 StartChar: rcommaaccent
@@ -6401,7 +6397,6 @@ Back
 Fore
 Refer: 6144 -1 N 1 0 0 1 193 0 2
 Refer: 50 82 N 1 0 0 1 0 0 1
-Validated: 32769
 EndChar
 
 StartChar: rcaron
@@ -8407,7 +8402,6 @@ Back
 Fore
 Refer: 6146 -1 S 1 0 0 1 120 0 2
 Refer: 50 82 N 1 0 0 1 0 0 0
-Validated: 32769
 EndChar
 
 StartChar: rdblgrave
@@ -8431,7 +8425,6 @@ Back
 Fore
 Refer: 492 785 S 1 0 0 1 518 168 0
 Refer: 50 82 N 1 0 0 1 0 0 0
-Validated: 32769
 EndChar
 
 StartChar: rinvertedbreve
@@ -31365,7 +31358,6 @@ Back
 Fore
 Refer: 475 729 S 1 0 0 1 185 167 0
 Refer: 50 82 N 1 0 0 1 0 0 0
-Validated: 32769
 EndChar
 
 StartChar: rdotaccent
@@ -31389,7 +31381,6 @@ Back
 Fore
 Refer: 475 729 S 1 0 0 1 199 -776 0
 Refer: 50 82 N 1 0 0 1 0 0 0
-Validated: 32769
 EndChar
 
 StartChar: uni1E5B
@@ -31413,7 +31404,6 @@ Back
 Fore
 Refer: 110 175 N 1 0 0 1 186 170 0
 Refer: 1466 7770 N 1 0 0 1 0 0 0
-Validated: 32769
 EndChar
 
 StartChar: uni1E5D
@@ -31437,7 +31427,6 @@ Back
 Fore
 Refer: 110 175 S 1 0 0 1 201 -761 0
 Refer: 50 82 N 1 0 0 1 0 0 0
-Validated: 32769
 EndChar
 
 StartChar: uni1E5F
@@ -34665,7 +34654,6 @@ Back
 Fore
 Refer: 83 115 N 1 0 0 1 685 0 2
 Refer: 50 82 S 1 0 0 1 0 0 2
-Validated: 32769
 EndChar
 
 StartChar: sheqel
@@ -132439,7 +132427,6 @@ Back
 Fore
 Refer: 35 67 N 0.34 0 0 0.34 173.54 370.46 2
 Refer: 50 82 S 0.34 0 0 0.34 411.08 102.46 2
-Validated: 32769
 EndChar
 
 StartChar: uni240e
@@ -132654,7 +132641,6 @@ Back
 Fore
 Refer: 50 82 N 0.34 0 0 0.34 201.08 375.46 2
 Refer: 51 83 S 0.34 0 0 0.34 425.27 103.46 2
-Validated: 32769
 EndChar
 
 StartChar: uni241f
